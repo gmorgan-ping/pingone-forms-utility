@@ -24,7 +24,8 @@ Create `environments.json` with your PingOne environments:
 ]
 ```
 
-**Region TLD values**: `com` (US), `eu` (Europe), `ca` (Canada), `ap` (Asia Pacific)
+**Region TLD values**: `com` (US), `eu` (Europe), `ca` (Canada), `asia` (Asia Pacific), `com.au` (Australia), `sg` (Singapore)
+
 
 ## Usage
 
